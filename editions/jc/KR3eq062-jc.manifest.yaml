@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR3eq062/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq062/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 客窗偶談
+  identifiers:
+    krp: KR3eq062
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq062.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq062_000-jc.yaml, hash: 'sha256:77bbe99431847302d08c0309e19179af0cd64a6f39979a952f8becca8ba17fb9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq062_000-jc.markers.yaml, hash: 'sha256:2aab863a2f38176ec2b9031e90ed3a31fccdc32d5b6774081fdf286f124e2347'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq062_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 10968
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq062_jc_000-d2d20
+    span:
+    - body
+    - 4106
+    - 10968
+  label: 辨天地六氣標本
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq062_jc_000-d3.h1s1
+    span:
+    - body
+    - 10968
+    - 11326
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:64e9b80e724a749602f1d18038411236086921d7acb296ed8760dbb4af213e0d
